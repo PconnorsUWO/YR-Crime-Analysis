@@ -1,0 +1,4 @@
+*.pdf
+latex_junk
+*.tex
+figures
